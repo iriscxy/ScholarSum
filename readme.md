@@ -11,7 +11,7 @@ The `Contact Form.pdf` offers a standardized form for users to report issues or 
 
 ## Data Description
 
-This README provides a detailed overview of the `pubmed.json` file, which includes structured data in JSON format for medical articles and associated summarization content. Each line in the file represents a distinct JSON object related to a specific article, including various summaries and metrics. Below, you will find a comprehensive breakdown of the keys available in each JSON entry and their meanings.
+This README provides a detailed overview of the `pubmed.json` file, which includes structured data in JSON format for medical articles and associated summarization content. The format of `arxiv.json` is similar. Each line in the file represents a distinct JSON object related to a specific article, including various summaries and metrics. Below, you will find a comprehensive breakdown of the keys available in each JSON entry and their meanings.
 
 ### Data Structure
 
@@ -36,6 +36,10 @@ For each summarization model, there are several associated keys providing furthe
 - **`[model]_gpt4`**, **`[model]_llama`**: Evaluation scores attributed to the assessments made by the GPT-4 and Llama2 70B models.
 
 
+
+### Similar Data
+
+`arxiv.json` is another dataset with a similar structure available for use, focusing on summaries and metrics for academic articles in the field of economics, computer science, and more.
 
 
 ### Usage
