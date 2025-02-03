@@ -1,5 +1,5 @@
 
-#Code and Data for Paper: "New Paradigm for Evaluating Scholar Summaries: A Facet-aware Metric & Meta-evaluation Benchmark"
+# Code and Data for Paper: "New Paradigm for Evaluating Scholar Summaries: A Facet-aware Metric & Meta-evaluation Benchmark"
 
 This repository contains the datasets, code, and instructions supporting the paper *"New Paradigm for Evaluating Scholar Summaries: A Facet-aware Metric & Meta-evaluation Benchmark."* Our research introduces a novel Facet-aware Metric (FM metric) and an extensive meta-evaluation benchmark to assess the quality of text summarization in various domains.
 
