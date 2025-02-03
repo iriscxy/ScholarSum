@@ -19,6 +19,7 @@ This repository is organized as follows:
 │   ├── metric_level_pubmed.py
 │   ├── model_level_arxiv.py
 │   ├── model_level_pubmed.py
+│   ├── significance_between_model.py
 │   └── eg. metric_level_pubmed_result.pdf  # Example evaluation result
 │
 ├── FM metric code/           # Implementation of our Facet-aware Metric system
